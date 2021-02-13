@@ -76,7 +76,7 @@ namespace NetCoreMarvelApi.Controllers
             return await GetMarvelRequest(url);
         }
         [ResponseCache(Duration = 1000 * 60 * 60, VaryByQueryKeys = new string[] { "comicId" })]
-        [HttpGet("comics/{characterId}/characters")]
+        [HttpGet("comics/{comicId}/characters")]
         public async Task<IActionResult> Characters(int comicId)
         {
             string url = $"/comics/{comicId}/characters?#hash#";
