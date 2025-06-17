@@ -59,11 +59,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="swagger_content.png" alt="marvelapinetcore Screen Shot" >
-
 Marvel App Cache Api
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+<img src="swagger_content.png" alt="marvelapinetcore Screen Shot" >
 
 ### Built With
 
@@ -155,7 +155,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Necmettin Cimen](https://necmettin.me) - [mail@necmettin.me](mailto:mail@necmettin.me)
+Necmettin Çimen - [@Necmettin Cimen](https://necmettincimen.github.io) - [necmettin.dev@gmail.com](mailto:necmettin.dev@gmail.com)
 
 Project Link: [https://github.com/necmettincimen/marvelapinetcore](https://github.com/necmettincimen/marvelapinetcore)
 

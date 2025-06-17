@@ -1,0 +1,19 @@
+version: '1.0'
+
+services:
+  marvelapi:
+    container_name: marvel-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      - ASPNETCORE_URLS=http://+:5000
+      - MarvelApi:apikey=your_api_key_here
+      - MarvelApi:privatekey=your_private_key_here
+    ports:
+      - 8084:5000
+
+networks:
+  default:
+      name: srvnecmettin
