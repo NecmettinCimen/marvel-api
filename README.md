@@ -1,4 +1,3 @@
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,7 +12,7 @@
   <h3 align="center">Marvel Api Net Core</h3>
 
   <p align="center">
-    Marvel App Cache Api
+    Marvel Comics API wrapper - Provides character and comic book data
     <br />
     <a href="https://github.com/necmettincimen/marvelapinetcore"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,13 +58,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Marvel App Cache Api
+Marvel Comics API wrapper - Provides character and comic book data
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 <img src="swagger_content.png" alt="marvelapinetcore Screen Shot" >
 
 ### Built With
+
+**Technologies:** `csharp` `dotnet9` `swagger` `restapi`
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Net Core](https://github.com/dotnet/core)
